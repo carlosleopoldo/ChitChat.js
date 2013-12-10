@@ -3,6 +3,8 @@ ChitChat.js
 
 ChitChat.js is an open-source chat bar client and node.js server that you can easily drop into your website.  Just one line in your web application template and all current users on your site will be able to chat with each other.  The server app is set up to be easily deployable to Heroku.  Similar to Facebook.com's Chat. For a longer explanation, see [here]("http://kyle-dorman.github.io/blog/2013/12/09/why-chitchat-dot-js/").
 
+[DEMO]("http://intense-taiga-9081.herokuapp.com/users/new")
+
 <h3>How to setup the ChitChat.js server:</h3>
 
 1. Clone this repository
